@@ -1,2 +1,2 @@
-# Laps-Electron-Builds
-Latest Release builds for Laps Windows &amp; OSX
+# Laps-Releases
+Latest Releases for Laps Windows &amp; OSX
